@@ -115,7 +115,21 @@ Sí sólo si							(<->)
 2. Detectar conectores.
 3. Unirlos, buscando conservar la escencia de la proposición.
 
+## 30/01/2020
+### examen thatquiz
+### ejemplo
+No vi la pelicula, pero lei la novela
 
+Si hay verdadera democracia, entonces no hay detenciones ni otras violaciones de los derechos civiles.
+
+P: Hay verdadera demcracia
+Q: Hay detenciones
+R: Otras violaciones de los derechos civiles
+
+P\-\>(~Q^~R)
+
+INVESTIGAR:
+Tautologia, Contingencia y Contradiccion
 
 
 
