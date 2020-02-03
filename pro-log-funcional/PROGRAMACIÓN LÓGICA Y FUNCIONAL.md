@@ -42,7 +42,6 @@ REPORTE DE PRÁCTICAS\
 ACTIVIDAD ALGORITMO
 
 ## 29/02/2020
-
 lógica
 	+ algo correcto
 	+ algo con sentido / razón
