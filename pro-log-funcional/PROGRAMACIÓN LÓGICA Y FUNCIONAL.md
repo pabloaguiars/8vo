@@ -122,11 +122,17 @@ No vi la pelicula, pero lei la novela
 
 Si hay verdadera democracia, entonces no hay detenciones ni otras violaciones de los derechos civiles.
 
-P: Hay verdadera demcracia
-Q: Hay detenciones
-R: Otras violaciones de los derechos civiles
+P: Hay verdadera demcracia  
+Q: Hay detenciones  
+R: Otras violaciones de los derechos civiles  
 
 P\-\>(~Q^~R)
 
 INVESTIGAR:
 Tautologia, Contingencia y Contradiccion
+
+### Tarea
+#### Tautología
+En lógica proposicional, una tautología es una fórmula bien formada que resulta verdadera para cualquier interpretación; es decir, para cualquier asignación de valores de verdad que se haga a sus fórmulas atómicas. La construcción de una tabla de verdad es un método efectivo para determinar si una fórmula cualquiera es una tautología o no.
+A: proposición simple A\
+B: proposición simple B\ 
