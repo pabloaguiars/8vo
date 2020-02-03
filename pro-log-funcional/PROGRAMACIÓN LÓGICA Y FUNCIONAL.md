@@ -75,40 +75,40 @@ ese algo correcto es llamado: proposición
 	sustituir su equivaliente: P v Q
 	
 ### Simbología
-"y"/and:							(v)
-"o"/or:								(^)
-Si... entonces / (implicación): 				(\-\>)
-"no"								(\-,~,)
+"y"/and:							(v)\
+"o"/or:								(^)\
+Si... entonces / (implicación): 				(\-\>)\
+"no"								(\-,~,)\
 Sí sólo si							(<\-\>)
 	
 ### Ejemplos
 + Tengo hambre y voy a cocinar pollo.
-	Tengo hambre:P
-	Voy a cocinar pollo:Q
+	Tengo hambre:P\
+	Voy a cocinar pollo:Q\
 	PvQ
 + Paso con 70 ó paso con 90.
-	Paso con 70:P
-	Paso con 90:Q
+	Paso con 70:P\
+	Paso con 90:Q\
 	P^Q
 + Uso sueter si tengo frío.
-	Uso suerter: C
-	Tengo frío:B
-	C->B
+	Uso suerter:C\
+	Tengo frío:B\
+	C\-\>B\
 + Si estudio entonces uso cuaderno.
-	Estudio:A
-	Uso cuaderno:B
-	A->B
+	Estudio:A\
+	Uso cuaderno:B\
+	A\-\>B
 + No tengo clases, sólo si es fin de semana.
-	Tengo clases:A
-	Es fin de semana:G
-	Ã<->G
+	Tengo clases:A\
+	Es fin de semana:G\
+	Ã<\-\>G
 + Uso Uber cuando voy tarde.
-	Uso uber:E
-	Voy tarde:F
-	E<->F
+	Uso uber:E\
+	Voy tarde:F\
+	E<\-\>F
 	
-"Si... entonces" puede ser conmutativo.
-"Si... entonces" y "Si sólo sí" puedes cambiarse
+"Si... entonces" puede ser conmutativo.\
+"Si... entonces" y "Si sólo sí" puedes cambiarse.
 
 ### Pasos
 1. Detectar propisiciones simples.
@@ -118,11 +118,11 @@ Sí sólo si							(<\-\>)
 ## 30/01/2020
 ### examen thatquiz
 ### ejemplo
-No vi la pelicula, pero lei la novela
+No vi la pelicula, pero lei la novela.
 
 Si hay verdadera democracia, entonces no hay detenciones ni otras violaciones de los derechos civiles.
 
-P: Hay verdadera demcracia\  
+P: Hay verdadera democracia\  
 Q: Hay detenciones\
 R: Otras violaciones de los derechos civiles
 
