@@ -14,11 +14,11 @@ UNIDAD 3: PROGRAMACIÓN LÓGICA
 UNIDAD 4: MODELO DE PROGRAMACIÓN LÓGICA
 
 ### EVALUCIÓN
-ACTIVIDADES 	->	40
+ACTIVIDADES 		\-\>	40
 
-TAREAS			->	20
+TAREAS			\-\>	20
 
-EXAMEN			->	40
+EXAMEN			\-\>	40
 	
 LENGUAJES A UTILIZAR: PROLOG
 
@@ -49,7 +49,7 @@ lógica
 	+ reglas
 	+ proceso de pensamiento
 	+ en la ingeniería, nos quedamos con el proceso formal
-		+ estructura -> verdadero/falso
+		+ estructura \-\> verdadero/falso
 		
 ese algo correcto es llamado: proposición
 	oración normal común y corriente, enunciado que puede tener un valor verdadero o falso
@@ -77,9 +77,9 @@ ese algo correcto es llamado: proposición
 ### Simbología
 "y"/and:							(v)
 "o"/or:								(^)
-Si... entonces / (implicación): 	(->)
-"no"								(-,~,)
-Sí sólo si							(<->)
+Si... entonces / (implicación): 				(\-\>)
+"no"								(\-,~,)
+Sí sólo si							(<\-\>)
 	
 ### Ejemplos
 + Tengo hambre y voy a cocinar pollo.
@@ -130,12 +130,3 @@ P\-\>(~Q^~R)
 
 INVESTIGAR:
 Tautologia, Contingencia y Contradiccion
-
-
-
-
-
-
-	
-	
-	
