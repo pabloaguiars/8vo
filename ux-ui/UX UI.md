@@ -16,4 +16,6 @@ CLASSROOM: 6yqxy5q
 + 6:3:1 rule
 + Combinación de colores (eye-friendly)
 	+ Contraste puede evocar diferentes emociones de los usuarios.
-	
+
+## 31/01/2020
+

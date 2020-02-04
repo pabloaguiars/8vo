@@ -114,3 +114,19 @@ sobre el problema del estudio sustentado teóricamente, evaluando su relevancia 
 + Establece o no la hipótesis donde se someterán a prueba en la realidad.
 + Nuevas áreas de investigación.
 + Provee un marco de referencia para interpretar los resultados de estudio.
+
+### TAREA: ANÁLISIS FODA DE LA INVESTIGACIÓN DE TALLER DE INVESTIGACIÓN I
+FORTALEZAS:
++ La encuesta realizada fue aplicada a más de 220 personas. Cumpliendo con el tamaño de muestra esperado.
++ Realizado en tiempo y forma con calificación aprobatoria.
+	
+Oportunidades:
++ La encuesta fue realizada para validar un proyecto futuro.
++ El trabajo realizado fue único en clase.
+	
+Debilidades:
++ La encuesta se realizó hace más de 6 meses.
+
+Amenazas:
++ La responsabilidad acerca del tema central de la encuesta pasó de ser cuestión municipal a ser índole estatal.
+	
