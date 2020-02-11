@@ -38,9 +38,12 @@ class QtMainWindow(Window):
 
 # Abstract factory class
 class UIFactory:
-   def getToolboxWindow(self): pass
-   def getLayersWindow(self): pass
-   def getMainWindow(self): pass
+   def getToolboxWindow(self): 
+      pass
+   def getLayersWindow(self): 
+      pass
+   def getMainWindow(self): 
+      pass
 
 class GtkUIFactory(UIFactory):
    def getToolboxWindow(self):
