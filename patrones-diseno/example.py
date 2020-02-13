@@ -62,7 +62,7 @@ class QtUIFactory(UIFactory):
       return QtMainWindow()
 
 if __name__ == "__main__":
-   gnome = True
+   gnome = False
    kde = not gnome
    
    if gnome:
