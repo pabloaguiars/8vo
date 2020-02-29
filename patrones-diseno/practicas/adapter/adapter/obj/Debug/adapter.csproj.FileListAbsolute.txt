@@ -1,0 +1,6 @@
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\adapter\adapter\obj\Debug\adapter.csprojAssemblyReference.cache
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\adapter\adapter\bin\Debug\adapter.exe.config
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\adapter\adapter\bin\Debug\adapter.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\adapter\adapter\bin\Debug\adapter.pdb
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\adapter\adapter\obj\Debug\adapter.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\adapter\adapter\obj\Debug\adapter.pdb
