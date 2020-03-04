@@ -1,0 +1,6 @@
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\composite\composite\bin\Debug\composite.exe.config
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\composite\composite\bin\Debug\composite.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\composite\composite\bin\Debug\composite.pdb
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\composite\composite\obj\Debug\composite.csprojAssemblyReference.cache
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\composite\composite\obj\Debug\composite.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\composite\composite\obj\Debug\composite.pdb
