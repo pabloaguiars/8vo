@@ -1,0 +1,6 @@
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\decorator\decorator\bin\Debug\decorator.exe.config
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\decorator\decorator\bin\Debug\decorator.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\decorator\decorator\bin\Debug\decorator.pdb
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\decorator\decorator\obj\Debug\decorator.csprojAssemblyReference.cache
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\decorator\decorator\obj\Debug\decorator.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\decorator\decorator\obj\Debug\decorator.pdb
