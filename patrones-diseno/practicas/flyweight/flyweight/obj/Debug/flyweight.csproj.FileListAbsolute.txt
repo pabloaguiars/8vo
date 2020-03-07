@@ -1,0 +1,6 @@
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\flyweight\flyweight\bin\Debug\flyweight.exe.config
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\flyweight\flyweight\bin\Debug\flyweight.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\flyweight\flyweight\bin\Debug\flyweight.pdb
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\flyweight\flyweight\obj\Debug\flyweight.csprojAssemblyReference.cache
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\flyweight\flyweight\obj\Debug\flyweight.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\flyweight\flyweight\obj\Debug\flyweight.pdb
