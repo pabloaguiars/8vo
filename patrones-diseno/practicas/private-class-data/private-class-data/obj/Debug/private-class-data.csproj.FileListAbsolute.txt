@@ -1,0 +1,6 @@
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\private-class-data\private-class-data\bin\Debug\private-class-data.exe.config
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\private-class-data\private-class-data\bin\Debug\private-class-data.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\private-class-data\private-class-data\bin\Debug\private-class-data.pdb
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\private-class-data\private-class-data\obj\Debug\private-class-data.csprojAssemblyReference.cache
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\private-class-data\private-class-data\obj\Debug\private-class-data.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\private-class-data\private-class-data\obj\Debug\private-class-data.pdb
