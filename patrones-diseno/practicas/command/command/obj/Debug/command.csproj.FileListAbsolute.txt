@@ -1,0 +1,6 @@
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\command\command\bin\Debug\command.exe.config
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\command\command\bin\Debug\command.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\command\command\bin\Debug\command.pdb
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\command\command\obj\Debug\command.csprojAssemblyReference.cache
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\command\command\obj\Debug\command.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\command\command\obj\Debug\command.pdb
