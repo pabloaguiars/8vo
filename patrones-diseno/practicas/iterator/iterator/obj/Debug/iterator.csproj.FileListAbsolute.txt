@@ -1,0 +1,6 @@
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\iterator\iterator\bin\Debug\iterator.exe.config
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\iterator\iterator\bin\Debug\iterator.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\iterator\iterator\bin\Debug\iterator.pdb
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\iterator\iterator\obj\Debug\iterator.csprojAssemblyReference.cache
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\iterator\iterator\obj\Debug\iterator.exe
+C:\Users\User-Workspace\Documents\school\8vo\patrones-diseno\practicas\iterator\iterator\obj\Debug\iterator.pdb
